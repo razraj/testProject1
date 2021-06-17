@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_splash">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!--    <string name="default_web_client_id">254825951472-8751t8qc758rr41ptm6eb627tclnnqe7.apps.googleusercontent.com</string>-->
+</resources>
